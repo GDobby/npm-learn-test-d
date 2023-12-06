@@ -1,0 +1,23 @@
+{
+  "name": "npm-learn-test-d",
+  "version": "1.0.0",
+  "author": "dasicy",
+  "description": "common toolkit dasicy-test", 
+  "keywords": ["react"], 
+  "repository": { 
+    "type": "git",
+    "url": "https://github.com/GDobby/npm-learn-test-d.git"
+  },
+  "license": "ISC", 
+  "homepage": "https://your-package.org", 
+  "bugs": "https://github.com/GDobby/npm-learn-test-d.git/issues", 
+  "main": "index.js", 
+  "scripts": {
+  
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
